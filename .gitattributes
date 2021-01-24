@@ -1,0 +1,2 @@
+# Linguist overrides https://github.com/github/linguist#overrides
+**/*.svelte linguist-detectable=true
